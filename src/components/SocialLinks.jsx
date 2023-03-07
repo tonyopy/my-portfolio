@@ -50,7 +50,7 @@ const SocialLinks = () => {
 
                 </>
             ),
-            href: '/Dagon-Resume.pdf',
+            href: '/My-resume.pdf',
             style: 'rounded-br-md',
             download:true,
 
